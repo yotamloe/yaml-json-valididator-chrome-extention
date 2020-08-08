@@ -1,4 +1,4 @@
-### YAML and JSON syntax validator chrome extention
+### YAML and JSON syntax validator chrome extention ⚙️
 
 dependencies:
 
@@ -10,7 +10,7 @@ dependencies:
 
 ### How to use
 
-1. Download the repository
+1. Download the repository zip
 2. Go to `chrome://extensions/`
 3. Turn on developer mode
-4. Select 'Load unpacked' and select the repository
+4. Select `Load unpacked` and select the repository
