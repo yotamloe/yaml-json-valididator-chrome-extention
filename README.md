@@ -1,6 +1,6 @@
 ### YAML and JSON syntax validator chrome extention ⚙️
 
-dependencies:
+### Dependencies
 
 - ACE editor [Github](https://github.com/ajaxorg/ace)
 - Popper.js [Github](https://github.com/popperjs/popper-core)
@@ -10,7 +10,7 @@ dependencies:
 
 ### How to use
 
-1. Download the repository zip
+1. Download the repository zip and extract
 2. Go to `chrome://extensions/`
 3. Turn on developer mode
-4. Select `Load unpacked` and select the repository
+4. Click `Load unpacked` and select the downloaded repository

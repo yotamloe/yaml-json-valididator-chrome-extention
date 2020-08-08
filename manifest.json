@@ -1,7 +1,7 @@
 {
-    "name": "Contetful delivery tool",
+    "name": "YAML & JSON validator",
     "version": "1.0",
-    "description": "Build an Extension!",
+    "description": "YAML & JSON validator",
     "icons": {
       "128": "assets/duck.png"
     },
