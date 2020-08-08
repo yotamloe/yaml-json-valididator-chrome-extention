@@ -19,4 +19,4 @@
 
 ### Screenshot
 
-![alt text](assets/screenshot.jpg "Logo Title Text 1")
+![alt text](assets/screenshot.jpg)
