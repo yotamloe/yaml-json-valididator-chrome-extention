@@ -10,7 +10,7 @@
 
 ### How to use
 
-1. [Download ⬇️](https://github.com/yotamloe/yaml-json-valididator-chrome-extention/archive/master.zip) the repository zip and extract 
+1. [Download ⬇️ ](https://github.com/yotamloe/yaml-json-valididator-chrome-extention/archive/master.zip) the repository zip and extract 
 2. Go to `chrome://extensions/`
 3. Turn on developer mode
 4. Click `Load unpacked` and select the downloaded repository
