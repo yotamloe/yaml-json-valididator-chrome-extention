@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <script src="js/jquery.js"> </script>
+    <script src="js/yaml.js"> </script>
+
+    <script src="js/js-yaml.min.js"></script>
+
+    <script src="js/ace.js" type="text/javascript" charset="utf-8"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+    integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <script src="/ace-builds/src-noconflict/ace.js" type="text/javascript" charset="utf-8"></script>
+    <script src="js/popper.js" ></script>
+    <script src="js/bootstrap.js"></script>
+    <link href="popup.css" rel="stylesheet">
+    <title>Document</title>
+</head>
+<body id="body">
+        <nav>
+            <div class="nav nav-tabs" id="nav-tab" role="tablist">
+              <a class="nav-item nav-link active" id="yaml" data-toggle="tab" href="#nav-home" role="tab" aria-controls="nav-home" aria-selected="true">YAML</a>
+              <a class="nav-item nav-link" id="json" data-toggle="tab" href="#nav-profile" role="tab" aria-controls="nav-profile" aria-selected="false">JSON</a>
+            </div>
+          </nav>
+          <div class="tab-content" id="nav-tabContent">
+            <div class="tab-pane fade show active" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
+            </div>
+            <div class="tab-pane fade" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab">
+            </div>
+          </div>
+
+          <div id="editor" class=" ace_editor"></div>
+          <div class="alert alert-danger" id="output" role="alert">
+          </div>
+
+
+
+</body>
+</html>
+<script src="js/popup.js">
+</script>

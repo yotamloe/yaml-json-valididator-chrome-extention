@@ -1,0 +1,15 @@
+body {
+    width: 600px;
+    height: 600px;
+
+}
+
+#editor {
+width: 100%;
+height: 83%;
+}
+
+.alert{
+    height: 10%;
+    margin-bottom: 0%;
+}
