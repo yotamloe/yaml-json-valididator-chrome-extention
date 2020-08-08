@@ -16,3 +16,7 @@
 3. Turn on developer mode
 4. Click `Load unpacked` and select the downloaded repository
 ***
+
+### Screenshot
+
+![alt text](assets/screenshot.jpg "Logo Title Text 1")
